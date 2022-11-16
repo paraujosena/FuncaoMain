@@ -1,3 +1,3 @@
 # FuncaoMain
 
-Demonstração dos argumentos pasados na função main!
+Demonstração dos argumentos passados na função main!
